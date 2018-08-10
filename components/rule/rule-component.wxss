@@ -1,0 +1,22 @@
+page {
+     display: flex; 
+    flex-direction: column;
+}
+
+
+/*画布*/
+
+.canvas-ruler {
+     width: 2000rpx; 
+    /*height: 80px;*/
+    /*border: 1px solid #ccc;*/
+}
+
+
+/*游标*/
+
+.canvas-cursor {
+    width: 100%;
+    height: 40rpx;
+    /*border: 1px solid #cc1;*/
+}

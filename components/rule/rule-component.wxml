@@ -1,0 +1,4 @@
+<scroll-view scroll-x="'true'" bindscroll="bindscroll" scroll-left="{{scrollLeft}}">
+    <canvas canvas-id="canvas-ruler" class="canvas-ruler" id="canvas-ruler" style="height: {{canvasHeight}}px; width: {{canvasWidth}}px;"></canvas>
+</scroll-view>
+<canvas canvas-id="canvas-cursor" class="canvas-cursor" id="canvas-cursor"></canvas>

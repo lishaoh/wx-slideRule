@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "rule-component": "/components/rule/rule-component"
+  }
+}
